@@ -1,2 +1,2 @@
-haha making games is fun.\n
+haha making games is fun.
 love c++.
